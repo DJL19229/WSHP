@@ -1,6 +1,6 @@
 # Universal Water Source Heat Pump Controller (WSHP)
 
-This WSHP controller is an open-source project intended for facility engineers and technicians.
+This WSHP controller is an open-source project intended for facility engineers and HVAC technicians.
 
 
 This repository contains:
