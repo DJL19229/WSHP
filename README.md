@@ -26,6 +26,6 @@ Some Features of include:
         -Condensate Sensor (water sense probe) or Condensate Switch (dry contact)
         -Enable/Disable Isolation Valve Relay
 
-    3) Small PCB footprint
+    3) Small PCB Footprint
 
     4) Plug-type Connections (no screwdriver required to replace same board)
