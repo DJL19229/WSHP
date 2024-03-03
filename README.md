@@ -6,14 +6,14 @@ This WSHP controller is an open-source project intended for facility engineers a
 This repository contains:
 
 
-.INO file that can be uploaded to the controller with the popular Arduino IDE
+    .INO file that can be uploaded to the controller with the popular Arduino IDE
 
 
-Wiring Diagram for a typical field application
+    Wiring Diagram for a typical field application
 
 
-Gerber Files ready for PCB printing
+    Gerber Files ready for PCB printing
 
 
-Bill of Materials
+    Bill of Materials
 
