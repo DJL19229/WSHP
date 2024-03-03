@@ -29,3 +29,7 @@ Some Features of include:
     3) Small PCB Footprint
 
     4) Plug-type Connections (no screwdriver required to replace same board)
+
+NOTES:
+
+The Wiring Diagram .QET file is editable with the free program "QElectroTech".
