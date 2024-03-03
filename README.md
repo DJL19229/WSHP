@@ -17,3 +17,13 @@ This repository contains:
 
     4) Bill of Materials
 
+
+Some Features of this include:
+
+    1) Error Codes via flashing LED for specific faults (see bottom right corner of wiring diagram for codes).
+
+    2) DIP switch selections for:
+        -Reversing Valve Energizes in HEAT or Reversing Valve Energizes in COOL
+        -Enable/Disable Freeze Protection
+        -Enable/Disable Condensate Protection
+        -
