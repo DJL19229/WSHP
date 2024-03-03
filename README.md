@@ -38,4 +38,5 @@ NOTES:
 -The Wiring Diagram .QET file is editable with the free program "QElectroTech".
 
 -The 6 pin socket allows an FTDI programmer to be plugged in directly to the board for easy programming.
-    (See "FTDI Programmer" .JPG in IMAGES.)
+
+(See "FTDI Programmer" .JPG in IMAGES.)
