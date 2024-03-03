@@ -14,10 +14,13 @@ This repository contains:
 
     4) Bill of Materials
 
+    5) Images of the completed project
+
 
 Some Features of include:
 
-    1) Error Codes via flashing LED for specific faults (LPS,HPS,FRZ,COND - see bottom right corner of wiring diagram for codes).
+    1) Error Codes via flashing LED for specific faults 
+        (LPS,HPS,FRZ,COND - see bottom right corner of wiring diagram for codes).
 
     2) DIP switch selections for:
         -Reversing Valve Energizes in HEAT or Reversing Valve Energizes in COOL
