@@ -16,6 +16,8 @@ This repository contains:
 
     5) Images of the completed project
 
+    6) EasyEDA schematic and PCB files
+
 
 Some Features of include:
 
